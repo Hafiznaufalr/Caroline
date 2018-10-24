@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Caroline</string>
+    <string name="home">home</string>
+    <string name="inbox">Inbox</string>
+    <string name="plants">Plants</string>
+    <string name="account">Account</string>
+    <string name="kategori">kategori</string>
+    <string name="kaktus">Kaktus</string>
+    <string name="p2">Begonia Iron Cross</string>
+    <string name="p3">Bunga Gloriosa</string>
+    <string name="p4">Daun Kuping Gajah</string>
+    <string name="p5">Gelombang Cinta</string>
+    <string name="p6">Daun Aglaonema</string>
+    <string name="p7">Keladi Red Star</string>
+    <string name="p8">Anggrek</string>
+    <string name="forum">Forum</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="s2">Begonia Iron Cross</string>
+    <string name="bunga_gloriosa">Bunga Gloriosa</string>
+    <string name="daun_kuping_gajah">Daun Kuping Gajah</string>
+    <string name="gelombang_cinta">Gelombang Cinta</string>
+    <string name="daun_aglaonema">Daun Aglaonema</string>
+    <string name="krs">Keladi Red Star</string>
+    <string name="anggrek">Anggrek</string>
+    <string name="keladi_red_star">Keladi Red Star</string>
+
+
+</resources>
